@@ -1,4 +1,8 @@
-# Getting Started
+# Api Ref
+
+Welcome to the **API STUFFFFF**. This document provides an overview of the APIP.# Architecture
+
+More Random text to test this thing. # Getting Started
 
 This guide will help you get started with the project.
 
@@ -20,3 +24,7 @@ Welcome to the **Project Documentation**. This document provides an overview of 
 - **Features**: List key features.
 
 Proceed to [Getting Started](getting-started.md) to learn how to set up the project.
+# Config
+Welcome to the **Config STUFFFFF**. This document provides an overview of the APIP.# Installation
+
+Welcome to the **Install STUFFFFF**. This document provides an overview of the APIP.
